@@ -32,8 +32,8 @@ test = function () {
 
 
         if (arrAttacker.length >= 2 && arrDefender.length >= 2){
-            console.log("Second highest Att: " + arrAttacker[0] + "\nDef: " + arrDefender[0]);
-            string += ("\n<b>Second highest</b> Att: " + arrAttacker[0] + "\nDef: " + arrDefender[0]);
+            console.log("Second highest Att: " + arrAttacker[1] + "\nDef: " + arrDefender[1]);
+            string += ("\n<b>Second highest</b> Att: " + arrAttacker[1] + "\nDef: " + arrDefender[1]);
             if(arrAttacker[1] > arrDefender[1]){
                 defenderMen--;
             } else {
