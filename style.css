@@ -1,0 +1,18 @@
+input{
+    font-size: 20px;
+    width: 300px;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+#centerDiv{
+    max-width: 400px;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+h1 {
+    text-align: center;
+}
